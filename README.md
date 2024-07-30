@@ -14,6 +14,8 @@ In the challenge, you are predicting item sales at stores in various locations f
 - *sell_prices.csv* - Contains information about the price of the products sold per store and date.
 - *sales_train_evaluation.csv* - Includes sales [d_1 - d_1941] (labels used for the Public leaderboard)
 
+# **All needed data:** https://drive.google.com/drive/folders/1Rle2Ysxht92-Ot-wRrVk5Y3p2-EJhH2B?usp=drive_link
+
 # **Steps made**
 - EDA
 - Applying LightGBM and DummyRegressor to forecast
